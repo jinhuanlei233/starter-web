@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jinhuan Lei jlei@qq.com 233
 
 # THANKS
 
