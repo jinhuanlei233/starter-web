@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work
 ## Development
 1. Sample website with plenty of
 ## CopyRight
-Jinhuan Lei
+Jinhuan Lei, Ding So ya
