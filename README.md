@@ -9,4 +9,4 @@ This repository is for showing how Git and GitHub work
 ## Deployment
 please fork this repo
 ## CopyRight
-Jinhuan Lei, Ding So ya
+Jinhuan Lei, Ding So ya. All right reserved
